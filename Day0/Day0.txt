@@ -1,0 +1,6 @@
+1. overview about course and mentor 
+2. Intro to java
+  -> Y we need java
+  -> key features of java
+
+3. Java arch. (JDK)
